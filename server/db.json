@@ -2,10 +2,10 @@
   "courses": [
     {
       "id": 1,
-      "title": "Angular 9 Fundamentals",
-      "description": "Learn the fundamentals of Angular 9",
-      "percentComplete": 26,
-      "favorite": true
+      "title": "2r2",
+      "description": "23r",
+      "percentComplete": 57,
+      "favorite": false
     }
   ]
 }
